@@ -1,0 +1,1 @@
+# dockarize_djangoapi_postgrasql_db_inventory_react
